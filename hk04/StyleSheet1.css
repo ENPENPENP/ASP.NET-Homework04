@@ -1,0 +1,41 @@
+﻿.menu {
+    background: black;
+    height: 70px;
+    width: 100%;
+}
+
+.font { color: white; }
+
+.imgwh {
+    height: auto;
+    width: auto;
+}
+
+html,body,form { height: 100%; }
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.Wrapper
+{
+    min-height: 100%;
+}
+
+.Content {
+    height: 100%;
+}
+   
+.Wrapper .FooterPush
+{
+    height: 30px; /* Footer 的高度 */
+}
+
+.Footer {
+    clear: both; /* 清除浮动元素格式 */
+    position: relative;
+    margin-top: -30px; /* Footer 高度的负值 */
+    height: 30px;
+}

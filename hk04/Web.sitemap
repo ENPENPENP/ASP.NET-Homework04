@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/index.aspx" title="Github"  description="Github" >
+    <siteMapNode url="~/whyGithub.aspx" title="whygithub" description="whygithub"/>
+    <siteMapNode url="~/Enterprise.aspx" title="Enterprise"  description="github-enterprise"/>
+    <siteMapNode url="~/Explorer.aspx" title="Explorer"  description="github-explorer" />
+  </siteMapNode>
+</siteMap>
